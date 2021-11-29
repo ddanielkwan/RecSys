@@ -59,7 +59,7 @@ To test if our algorithm is recommending movies our user would like. We created 
 
 We first ask the user to input a user_id and a movie_id. This movie ID can be a movie that has or hasn't not been rated yet.
 
-In this algorithm we use a user and their friends (mentioned above) previously rated movies to predict the rating of the inputted movie id. We then use the same NLP Tokenizer model as the recommender to vectorize the tags of the movies. We then find the cosine_similarity between the inputted movie and the rated movies in the ___ variable. 
+In this algorithm we use a user and their friends (mentioned above) previously rated movies to predict the rating of the inputted movie id. We then use the same NLP Tokenizer model as the recommender to vectorize the tags of the movies. We then find the cosine_similarity between the inputted movie and the rated movies in the **watched_movies** variable. 
 
 We calculated different predictions. We used weighted mean and weighted meadian to predict the rating of the inputted movie. You can compare the returned value with it's rated value if the movie has been rated by the user. If the movie has not been rated by the user, our algorithm can still give an educated prediction on what they would rate the movie.
 
