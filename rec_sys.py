@@ -39,6 +39,7 @@ class RecSys:
 
         # Get top k movies
         k = 5
+        
         recommendations = self.rec_sys.get_top_k_movies(movie_tags, k)
         return recommendations
 
