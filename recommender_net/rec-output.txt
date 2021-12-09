@@ -1,0 +1,1012 @@
+Showing recommendations for user: 435
+====================================
+Movies with high ratings from user
+------------------------------------
+Billy Madison (1995) : Comedy
+Shawshank Redemption, The (1994) : Crime|Drama
+Fight Club (1999) : Action|Crime|Drama|Thriller
+Kill Bill: Vol. 2 (2004) : Action|Drama|Thriller
+Prestige, The (2006) : Drama|Mystery|Sci-Fi|Thriller
+------------------------------------
+Top 1000 movie recommendations for user
+------------------------------------
+Persuasion (1995) : Drama|Romance
+Cry, the Beloved Country (1995) : Drama
+Lamerica (1994) : Adventure|Drama
+White Balloon, The (Badkonake sefid) (1995) : Children|Drama
+Nobody Loves Me (Keiner liebt mich) (1994) : Comedy|Drama
+Catwalk (1996) : Documentary
+Chungking Express (Chung Hing sam lam) (1994) : Drama|Mystery|Romance
+Jeffrey (1995) : Comedy|Drama
+Lord of Illusions (1995) : Horror
+Party Girl (1995) : Comedy
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964) : Drama|Musical|Romance
+Burnt by the Sun (Utomlyonnye solntsem) (1994) : Drama
+New York Cop (Nyû Yôku no koppu) (1993) : Action|Crime
+Beyond Bedlam (1993) : Drama|Horror
+Colonel Chabert, Le (1994) : Drama|Romance|War
+Jason's Lyric (1994) : Crime|Drama
+Blink (1994) : Thriller
+Calendar Girl (1993) : Comedy|Drama
+Flesh and Bone (1993) : Drama|Mystery|Romance
+Live Nude Girls (1995) : Comedy
+Manhattan Murder Mystery (1993) : Comedy|Mystery
+In the Realm of the Senses (Ai no corrida) (1976) : Drama
+What Happened Was... (1994) : Comedy|Drama|Romance|Thriller
+Orlando (1992) : Drama|Fantasy|Romance
+Thirty-Two Short Films About Glenn Gould (1993) : Drama|Musical
+Escort, The (Scorta, La) (1993) : Crime|Thriller
+Dear Diary (Caro Diario) (1994) : Comedy|Drama
+Land and Freedom (Tierra y libertad) (1995) : Drama|War
+Dead Man (1995) : Drama|Mystery|Western
+Heaven's Prisoners (1996) : Crime|Thriller
+Stalingrad (1993) : Drama|War
+'Til There Was You (1997) : Drama|Romance
+Adventures of Pinocchio, The (1996) : Adventure|Children
+Supercop 2 (Project S) (Chao ji ji hua) (1993) : Action|Comedy|Crime|Thriller
+1-900 (06) (1994) : Drama|Romance
+Philadelphia Story, The (1940) : Comedy|Drama|Romance
+It Happened One Night (1934) : Comedy|Romance
+Charade (1963) : Comedy|Crime|Mystery|Romance|Thriller
+Women, The (1939) : Comedy
+Affair to Remember, An (1957) : Drama|Romance
+Love in the Afternoon (1957) : Comedy|Romance
+Adventures of Robin Hood, The (1938) : Action|Adventure|Romance
+Laura (1944) : Crime|Film-Noir|Mystery
+My Man Godfrey (1936) : Comedy|Romance
+His Girl Friday (1940) : Comedy|Romance
+Penny Serenade (1941) : Drama|Romance
+Cat on a Hot Tin Roof (1958) : Drama
+Beautiful Thing (1996) : Drama|Romance
+Crossfire (1947) : Crime|Film-Noir
+Reservoir Dogs (1992) : Crime|Mystery|Thriller
+Streetcar Named Desire, A (1951) : Drama
+Children of the Corn IV: The Gathering (1996) : Horror
+Palookaville (1996) : Action|Comedy|Drama
+Perfect Candidate, A (1996) : Documentary
+On Golden Pond (1981) : Drama
+Entertaining Angels: The Dorothy Day Story (1996) : Drama
+Line King: The Al Hirschfeld Story, The (1996) : Documentary
+Lesson Faust (1994) : Animation|Comedy|Drama|Fantasy
+Enchanted April (1992) : Drama|Romance
+Paths of Glory (1957) : Drama|War
+Paris Is Burning (1990) : Documentary
+Aliens (1986) : Action|Adventure|Horror|Sci-Fi
+Wings of Desire (Himmel über Berlin, Der) (1987) : Drama|Fantasy|Romance
+Grand Day Out with Wallace and Gromit, A (1989) : Adventure|Animation|Children|Comedy|Sci-Fi
+Trust (1990) : Comedy|Drama|Romance
+Glory (1989) : Drama|War
+Rosencrantz and Guildenstern Are Dead (1990) : Comedy|Drama
+Miller's Crossing (1990) : Crime|Drama|Film-Noir|Thriller
+Great Escape, The (1963) : Action|Adventure|Drama|War
+Night on Earth (1991) : Comedy|Drama
+Big Sleep, The (1946) : Crime|Film-Noir|Mystery
+Butch Cassidy and the Sundance Kid (1969) : Action|Western
+Hype! (1996) : Documentary
+Body Snatcher, The (1945) : Drama|Horror|Thriller
+Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice) (1986) : Horror
+Paradise Lost: The Child Murders at Robin Hood Hills (1996) : Documentary
+Cement Garden, The (1993) : Drama
+Waiting for Guffman (1996) : Comedy
+Anna Karenina (1997) : Drama|Romance
+Double Team (1997) : Action
+Ponette (1996) : Drama
+Career Girls (1997) : Drama
+My Own Private Idaho (1991) : Drama|Romance
+Star Maps (1997) : Drama
+Year of the Horse (1997) : Documentary
+Swept from the Sea (1997) : Drama|Romance
+Stripes (1981) : Comedy|War
+Wings of the Dove, The (1997) : Drama|Romance
+Butcher Boy, The (1997) : Comedy|Drama
+Sweet Hereafter, The (1997) : Drama
+Afterglow (1997) : Drama|Romance
+Fallen (1998) : Crime|Drama|Fantasy|Thriller
+Everest (1998) : Documentary|IMAX
+Spanish Prisoner, The (1997) : Crime|Drama|Mystery|Thriller
+Children of Heaven, The (Bacheha-Ye Aseman) (1997) : Comedy|Drama
+Dream for an Insomniac (1996) : Drama|Romance
+All Quiet on the Western Front (1930) : Action|Drama|War
+Grand Hotel (1932) : Drama|Romance
+Marty (1955) : Drama|Romance
+Man for All Seasons, A (1966) : Drama
+In Search of the Castaways (1962) : Adventure|Children
+Doctor Zhivago (1965) : Drama|Romance|War
+Mephisto (1981) : Drama|War
+Peter Pan (1953) : Animation|Children|Fantasy|Musical
+Autumn Sonata (Höstsonaten) (1978) : Drama
+Who's Afraid of Virginia Woolf? (1966) : Drama
+Rosemary's Baby (1968) : Drama|Horror|Thriller
+Knock Off (1998) : Action
+Saboteur (1942) : Mystery|Thriller
+Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975) : Comedy|Drama
+Strangeland (1998) : Thriller
+Love Is the Devil (1998) : Drama
+Cruise, The (1998) : Documentary
+King Kong (1933) : Action|Adventure|Fantasy|Horror
+Miracle on 34th Street (1947) : Comedy|Drama
+Extremities (1986) : Drama|Thriller
+General, The (1998) : Crime
+Firewalker (1986) : Adventure
+Fantastic Planet, The (Planète sauvage, La) (1973) : Animation|Sci-Fi
+I Stand Alone (Seul contre tous) (1998) : Drama|Thriller
+Dangerous Beauty (1998) : Drama
+King and I, The (1956) : Drama|Musical|Romance
+Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965) : Adventure|Drama|Mystery
+Buena Vista Social Club (1999) : Documentary|Musical
+Red Violin, The (Violon rouge, Le) (1998) : Drama|Mystery
+Dinner Game, The (Dîner de cons, Le) (1998) : Comedy
+Autumn Tale, An (Conte d'automne) (1998) : Romance
+Killing, The (1956) : Crime|Film-Noir
+400 Blows, The (Les quatre cents coups) (1959) : Crime|Drama
+Jules and Jim (Jules et Jim) (1961) : Drama|Romance
+Iron Giant, The (1999) : Adventure|Animation|Children|Drama|Sci-Fi
+Masque of the Red Death, The (1964) : Horror
+Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997) : Drama|Romance
+On the Ropes (1999) : Documentary|Drama
+Outside Providence (1999) : Comedy
+Soldier's Story, A (1984) : Drama
+Romance (1999) : Drama|Romance
+Gulliver's Travels (1939) : Adventure|Animation|Children
+Sanjuro (Tsubaki Sanjûrô) (1962) : Action|Adventure|Drama
+Bad Seed, The (1956) : Drama|Thriller
+Fitzcarraldo (1982) : Adventure|Drama
+Red Sorghum (Hong gao liang) (1987) : Drama|War
+On Any Sunday (1971) : Documentary
+Train of Life (Train de vie) (1998) : Comedy|Drama|Romance|War
+Last Night (1998) : Drama|Sci-Fi
+Rosetta (1999) : Drama
+Yojimbo (1961) : Action|Adventure
+Face in the Crowd, A (1957) : Drama
+Dead Again (1991) : Mystery|Romance|Thriller
+Incredibly True Adventure of Two Girls in Love, The (1995) : Comedy|Romance
+Where's Marlowe? (1998) : Comedy
+Holiday Inn (1942) : Comedy|Musical
+Verdict, The (1982) : Drama|Mystery
+Sandpiper, The (1965) : Drama|Romance
+Jeremiah Johnson (1972) : Western
+Repulsion (1965) : Drama|Horror
+Babes in Toyland (1934) : Children|Comedy|Fantasy|Musical
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948) : Drama
+Matewan (1987) : Drama
+Kagemusha (1980) : Drama|War
+Maurice (1987) : Drama|Romance
+Grapes of Wrath, The (1940) : Drama
+My Man Godfrey (1957) : Comedy
+7th Voyage of Sinbad, The (1958) : Action|Adventure|Fantasy
+Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999) : Documentary
+Woman in the Dunes (Suna no onna) (1964) : Drama
+Where the Buffalo Roam (1980) : Comedy
+Man Bites Dog (C'est arrivé près de chez vous) (1992) : Comedy|Crime|Drama|Thriller
+Not One Less (Yi ge dou bu neng shao) (1999) : Drama
+Beautiful People (1999) : Comedy
+Black Tar Heroin: The Dark End of the Street (2000) : Documentary
+Circus, The (1928) : Comedy
+Key Largo (1948) : Crime|Drama|Film-Noir|Thriller
+Breaking Away (1979) : Comedy|Drama
+Searchers, The (1956) : Drama|Western
+Daughters of the Dust (1991) : Drama
+Taking of Pelham One Two Three, The (1974) : Action|Crime
+Mirror, The (Zerkalo) (1975) : Drama
+Creature Comforts (1989) : Animation|Comedy
+Double Indemnity (1944) : Crime|Drama|Film-Noir
+Guess Who's Coming to Dinner (1967) : Drama
+Gothic (1986) : Drama|Horror
+Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976) : Comedy
+Madame Sousatzka (1988) : Drama
+Network (1976) : Comedy|Drama
+Odd Couple, The (1968) : Comedy
+All the Vermeers in New York (1990) : Comedy|Drama|Romance
+Where the Money Is (2000) : Comedy|Drama
+What Ever Happened to Baby Jane? (1962) : Drama|Horror|Thriller
+Bossa Nova (2000) : Comedy|Drama|Romance
+Human Traffic (1999) : Comedy
+On the Town (1949) : Comedy|Musical|Romance
+Gold Rush, The (1925) : Adventure|Comedy|Romance
+King in New York, A (1957) : Comedy|Drama
+Endless Summer, The (1966) : Documentary
+Blow-Out (La grande bouffe) (1973) : Drama
+For the Love of Benji (1977) : Adventure|Children|Comedy|Drama
+Baraka (1992) : Documentary
+Man with the Golden Arm, The (1955) : Drama
+Magnum Force (1973) : Action|Crime|Drama|Thriller
+Hamlet (1990) : Drama
+Duel in the Sun (1946) : Drama|Romance|Western
+Five Senses, The (1999) : Drama
+Sinbad and the Eye of the Tiger (1977) : Adventure|Fantasy
+Interiors (1978) : Drama
+Official Story, The (La historia oficial) (1985) : Drama
+Wonderland (1999) : Drama
+I'm the One That I Want (2000) : Comedy
+Bless the Child (2000) : Thriller
+Slumber Party Massacre II (1987) : Horror
+Slumber Party Massacre III (1990) : Horror
+Sorority House Massacre (1986) : Horror
+Sorority House Massacre II (1990) : Horror
+Two Family House (2000) : Drama
+Before Night Falls (2000) : Drama
+With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000) : Drama|Thriller
+Nico and Dani (Krámpack) (2000) : Comedy|Drama|Romance
+Price of Milk, The (2000) : Comedy|Drama|Fantasy|Romance
+Reform School Girls (1986) : Action|Drama
+Elmer Gantry (1960) : Drama
+Fantasticks, The (1995) : Musical
+4 Little Girls (1997) : Documentary
+Dish, The (2001) : Comedy
+Keep the River on Your Right: A Modern Cannibal Tale (2000) : Documentary
+Gleaners & I, The (Les glaneurs et la glaneuse) (2000) : Documentary
+Center of the World, The (2001) : Drama
+Under the Sand (2000) : Drama
+Triumph of the Will (Triumph des Willens) (1934) : Documentary
+World According to Garp, The (1982) : Comedy|Drama|Romance
+Fast Food, Fast Women (2000) : Comedy|Romance
+Yi Yi (2000) : Drama
+Big Eden (2000) : Drama|Romance
+Gentlemen Prefer Blondes (1953) : Comedy|Musical|Romance
+Another Woman (1988) : Drama
+Diary of a Chambermaid (Journal d'une femme de chambre, Le) (1964) : Comedy|Drama
+Man Who Shot Liberty Valance, The (1962) : Crime|Drama|Western
+Salvador (1986) : Drama|Thriller|War
+All That Heaven Allows (1955) : Drama|Romance
+Kiss Me Deadly (1955) : Film-Noir
+Written on the Wind (1956) : Drama
+Fist of Fury (Chinese Connection, The) (Jing wu men) (1972) : Action|Drama|Romance|Thriller
+Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972) : Action|Crime
+More (1998) : Animation|Drama|Sci-Fi|IMAX
+Biloxi Blues (1988) : Comedy|Drama
+Milagro Beanfield War (1988) : Comedy|Drama|Fantasy
+Running on Empty (1988) : Drama
+Jesus of Montreal (Jésus de Montréal) (1989) : Drama
+Santa Sangre (1989) : Drama|Horror|Mystery|Thriller
+Dinner Rush (2000) : Drama
+Endurance: Shackleton's Legendary Antarctic Expedition, The (2000) : Documentary
+Moscow Does Not Believe in Tears (Moskva slezam ne verit) (1979) : Drama|Romance
+Silkwood (1983) : Drama
+Big Red One, The (1980) : Action|Adventure|Drama|War
+Last Metro, The (Dernier métro, Le) (1980) : Drama|Romance
+Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993) : Action|Comedy
+Town is Quiet, The (Ville est tranquille, La) (2000) : Drama
+Subway (1985) : Crime|Drama|Romance|Thriller
+Little Women (1933) : Drama|Romance
+Enforcer, The (1976) : Crime
+Witness for the Prosecution (1957) : Drama|Mystery|Thriller
+Going Places (Valseuses, Les) (1974) : Comedy|Crime|Drama
+Scotland, Pa. (2001) : Comedy|Crime
+Sleuth (1972) : Comedy|Mystery|Thriller
+Big Bird Cage, The (1972) : Action
+Hopscotch (1980) : Comedy
+Motel Hell (1980) : Comedy|Horror
+Rude Boy (1980) : Documentary|Drama
+Shogun Assassin (1980) : Action|Adventure
+Piano Teacher, The (La pianiste) (2001) : Drama
+Impromptu (1991) : Comedy|Romance
+Rain (2001) : Drama|Romance
+Enough (2002) : Drama|Thriller
+Thirteen Conversations About One Thing (a.k.a. 13 Conversations) (2001) : Drama
+Requiem for a Heavyweight (1962) : Drama
+84 Charing Cross Road (1987) : Drama|Romance
+Cherish (2002) : Comedy|Drama|Thriller
+20 Million Miles to Earth (1957) : Sci-Fi
+Tadpole (2002) : Comedy|Drama|Romance
+Nosferatu the Vampyre (Nosferatu: Phantom der Nacht) (1979) : Horror
+The Big Bus (1976) : Action|Comedy
+24 Hour Party People (2002) : Comedy|Drama|Musical
+Satin Rouge (2002) : Drama|Musical
+Lavender Hill Mob, The (1951) : Comedy|Crime
+Son of the Bride (Hijo de la novia, El) (2001) : Comedy|Drama
+Moonlight Mile (2002) : Drama|Romance
+Punch-Drunk Love (2002) : Comedy|Drama|Romance
+Continental Divide (1981) : Comedy|Romance
+Eyewitness (Janitor, The) (1981) : Thriller
+First Monday in October (1981) : Comedy|Drama
+Four Seasons, The (1981) : Comedy|Drama
+My Dinner with André (1981) : Drama
+Crime of Father Amaro, The (Crimen del padre Amaro, El) (2002) : Drama|Romance
+My Father's Glory (La gloire de mon père) (1990) : Adventure|Drama
+I'm Starting From Three (Ricomincio da Tre) (1981) : Comedy
+The Emperor's Club (2002) : Drama
+Brother (Brat) (1997) : Crime|Drama
+Cruel Romance, A (Zhestokij Romans) (1984) : Drama|Romance
+Elling (2001) : Comedy|Drama
+Deathtrap (1982) : Comedy|Crime|Mystery|Thriller
+Intact (Intacto) (2001) : Thriller
+Fat City (1972) : Drama
+Nicholas Nickleby (2002) : Drama|Romance
+American Friend, The (Amerikanische Freund, Der) (1977) : Crime|Drama|Mystery|Thriller
+Amen. (2002) : Drama
+Harder They Fall, The (1956) : Drama|Film-Noir
+Midsummer Night's Sex Comedy, A (1982) : Comedy|Romance
+Missing (1982) : Drama|Mystery|Thriller
+Night of the Shooting Stars (Notte di San Lorenzo, La) (1982) : Drama|War
+Sunless (Sans Soleil) (1983) : Documentary
+Trail of the Pink Panther (1982) : Comedy|Crime
+He Loves Me... He Loves Me Not (À la folie... pas du tout) (2002) : Romance|Thriller
+Red Badge of Courage, The (1951) : Drama|War
+Open Hearts (Elsker dig for evigt) (2002) : Romance
+Poolhall Junkies (2002) : Comedy|Drama|Thriller
+Lady Jane (1986) : Drama|Romance
+Talk of the Town, The (1942) : Comedy|Romance|Thriller
+Europa Europa (Hitlerjunge Salomon) (1990) : Drama|War
+Awful Truth, The (1937) : Comedy|Romance
+Stevie (2002) : Documentary
+Good Thief, The (2002) : Crime|Drama
+Siam Sunset (1999) : Comedy
+Belle époque (1992) : Comedy|Romance
+Unforgiven, The (1960) : Drama|Western
+You Only Live Once (1937) : Crime|Film-Noir
+Tenant, The (Locataire, Le) (1976) : Drama|Horror|Mystery|Thriller
+What's Up, Doc? (1972) : Comedy
+Mouse That Roared, The (1959) : Comedy|War
+Magdalene Sisters, The (2002) : Drama
+Umberto D. (1952) : Drama
+Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le) (1972) : Comedy|Drama|Fantasy
+Handmaid's Tale, The (1990) : Drama|Sci-Fi
+Life and Debt (2001) : Documentary
+Lagaan: Once Upon a Time in India (2001) : Comedy|Drama|Musical|Romance
+Ginger Snaps (2000) : Drama|Horror|Thriller
+Regarding Henry (1991) : Drama
+Station Agent, The (2003) : Comedy|Drama
+Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup) (2003) : Documentary
+My Architect: A Son's Journey (2003) : Documentary
+Barbarian Invasions, The (Les invasions barbares) (2003) : Comedy|Crime|Drama|Mystery|Romance
+Devil's Playground (2002) : Documentary
+Dernier Combat, Le (Last Battle, The) (1983) : Drama|Sci-Fi
+Jane Eyre (1944) : Drama|Romance
+Hoffa (1992) : Crime|Drama
+Presumed Innocent (1990) : Crime|Drama|Thriller
+National Velvet (1944) : Children|Drama
+Red River (1948) : Action|Adventure|Western
+Stagecoach (1939) : Action|Drama|Romance|Western
+Navigator, The (1924) : Comedy
+Passage to India, A (1984) : Adventure|Drama
+Horse Feathers (1932) : Comedy
+Rivers and Tides (2001) : Documentary
+Adam's Rib (1949) : Comedy|Romance
+Element of Crime, The (Forbrydelsens Element) (1984) : Drama|Thriller
+Ship of Fools (1965) : Drama
+This Property is Condemned (1966) : Drama|Romance
+I Was a Male War Bride (1949) : Comedy|Romance
+Ox-Bow Incident, The (1943) : Drama|Western
+They Drive by Night (1940) : Drama
+Diary of a Country Priest (Journal d'un curé de campagne) (1951) : Drama
+Good bye, Lenin! (2003) : Comedy|Drama
+Wrong Arm of the Law, The (1963) : Comedy|Crime
+Dogville (2003) : Drama|Mystery|Thriller
+I'm Not Scared (Io non ho paura) (2003) : Drama|Mystery|Thriller
+Scenes From a Marriage (Scener ur ett äktenskap) (1973) : Drama
+Kwaidan (Kaidan) (1964) : Horror
+Wit (2001) : Drama
+Woman of the Year (1942) : Comedy|Romance
+Oklahoma! (1955) : Musical|Romance|Western
+Desert Hearts (1985) : Drama
+Animal Crackers (1930) : Comedy|Musical
+Cat People (1942) : Drama|Horror|Romance|Thriller
+Best of Youth, The (La meglio gioventù) (2003) : Drama
+Bang, Bang, You're Dead (2002) : Drama
+11'09"01 - September 11 (2002) : Drama
+Another Thin Man (1939) : Comedy|Crime|Drama|Mystery|Romance
+Dune (2000) : Drama|Fantasy|Sci-Fi
+Highway 61 (1991) : Comedy
+Through a Glass Darkly (Såsom i en spegel) (1961) : Drama
+Kikujiro (Kikujirô no natsu) (1999) : Comedy|Drama
+How to Steal a Million (1966) : Comedy|Crime|Romance
+Gladiator (1992) : Action|Drama
+Dead or Alive: Hanzaisha (1999) : Action|Crime
+Zazie dans le métro (1960) : Comedy
+Little Murders (1971) : Comedy|Crime
+Viridiana (1961) : Comedy|Drama
+Masterminds (1997) : Action|Comedy|Thriller
+Arizona Dream (1993) : Comedy|Drama|Fantasy|Romance
+3 Women (Three Women) (1977) : Drama
+Man Who Came to Dinner, The (1942) : Comedy
+Make Way for Tomorrow (1937) : Drama
+Caine Mutiny, The (1954) : Drama|War
+Saved! (2004) : Comedy|Drama
+Doctor, The (1991) : Drama
+Dresser, The (1983) : Drama
+Suddenly (1954) : Crime|Drama|Film-Noir
+Jetée, La (1962) : Romance|Sci-Fi
+Immigrant, The (1917) : Comedy
+De-Lovely (2004) : Drama|Musical
+Day at the Races, A (1937) : Comedy|Musical
+Into the Woods (1991) : Adventure|Comedy|Fantasy|Musical
+Killing Me Softly (2002) : Drama|Mystery|Romance|Thriller
+Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse) (1933) : Crime|Horror|Mystery|Thriller
+Woman Is a Woman, A (femme est une femme, Une) (1961) : Comedy|Drama|Musical|Romance
+Prime of Miss Jean Brodie, The (1969) : Drama
+Musa the Warrior (Musa) (2001) : Action|Adventure|Drama|War
+Code 46 (2003) : Romance|Sci-Fi
+Story of Women (Affaire de femmes, Une) (1988) : Drama
+We Don't Live Here Anymore (2004) : Drama
+Bill Cosby, Himself (1983) : Comedy|Documentary
+First Daughter (2004) : Comedy|Romance
+Motorcycle Diaries, The (Diarios de motocicleta) (2004) : Adventure|Drama
+After the Sunset (2004) : Action|Adventure|Comedy|Crime|Thriller
+Guerrilla: The Taking of Patty Hearst (2004) : Documentary
+Jazz Singer, The (1927) : Drama|Musical|Romance
+Andalusian Dog, An (Chien andalou, Un) (1929) : Fantasy
+Scarface (1932) : Crime|Drama
+Letter, The (1940) : Drama|Film-Noir
+Tales of Manhattan (1942) : Comedy|Drama
+Day of Wrath (Vredens dag) (1943) : Drama
+Mr. Skeffington (1944) : Drama|Romance
+Unfaithfully Yours (1948) : Comedy
+Letter to Three Wives, A (1949) : Comedy|Drama
+Young and the Damned, The (Olvidados, Los) (1950) : Crime|Drama
+Teacher's Pet (1958) : Comedy|Romance
+When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki) (1960) : Drama
+Advise and Consent (1962) : Drama
+Music Man, The (1962) : Children|Comedy|Musical|Romance
+Hush... Hush, Sweet Charlotte (1964) : Horror|Thriller
+Closely Watched Trains (Ostre sledované vlaky) (1966) : Comedy|Drama|War
+Branded to Kill (Koroshi no rakuin) (1967) : Action|Crime|Drama
+Play Time (a.k.a. Playtime) (1967) : Comedy
+Asterix and Cleopatra (Astérix et Cléopâtre) (1968) : Action|Adventure|Animation|Children|Comedy
+Claire's Knee (Genou de Claire, Le) (1970) : Comedy|Romance
+Performance (1970) : Crime|Drama|Thriller
+Dr. Phibes Rises Again (1972) : Adventure|Comedy|Horror|Romance
+Holy Mountain, The (Montaña sagrada, La) (1973) : Drama
+Passenger, The (Professione: reporter) (1975) : Drama
+Last Hurrah for Chivalry (Hao xia) (1979) : Action|Drama
+Police Story (Ging chaat goo si) (1985) : Action|Comedy|Crime|Thriller
+Decalogue, The (Dekalog) (1989) : Crime|Drama|Romance
+Law of Desire (Ley del deseo, La) (1987) : Comedy|Drama|Romance
+Life Is a Long Quiet River (La vie est un long fleuve tranquille) (1988) : Comedy
+Bullet in the Head (1990) : Action|Drama|War
+Days of Being Wild (A Fei jingjyuhn) (1990) : Drama|Romance
+Johnny Stecchino (1991) : Comedy
+Riki-Oh: The Story of Ricky (Lik Wong) (1991) : Action|Crime|Thriller
+Sonatine (Sonachine) (1993) : Action|Comedy|Crime|Drama
+Fist of Legend (Jing wu ying xiong) (1994) : Action|Drama
+Pure Formality, A (Pura formalità, Una) (1994) : Crime|Film-Noir|Mystery|Thriller
+Langoliers, The (1995) : Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+Summer's Tale, A (Conte d'été) (1996) : Comedy|Drama|Romance
+Gummo (1997) : Drama
+From the Earth to the Moon (1998) : Action|Documentary|Drama|Thriller
+Monday (2000) : Action|Comedy|Crime|Fantasy|Thriller
+Ripley's Game (2002) : Drama|Thriller
+Dead or Alive 2: Tôbôsha (2000) : Action|Crime|Thriller
+My Sassy Girl (Yeopgijeogin geunyeo) (2001) : Comedy|Romance
+Happiness of the Katakuris, The (Katakuri-ke no kôfuku) (2001) : Comedy|Horror|Musical
+Oasis (2002) : Drama|Romance
+Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003) : Action|Drama|Thriller|War
+Last Life in the Universe (Ruang rak noi nid mahasan) (2003) : Drama|Romance
+'Salem's Lot (2004) : Drama|Horror|Mystery|Thriller
+Red Lights (Feux rouges) (2004) : Drama
+Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004) : Action|Drama|War
+DiG! (2004) : Documentary
+3-Iron (Bin-jip) (2004) : Drama|Romance
+Memories of Murder (Salinui chueok) (2003) : Crime|Drama|Mystery|Thriller
+Nobody Knows (Dare mo shiranai) (2004) : Drama
+Marriage of Maria Braun, The (Ehe der Maria Braun, Die) (1979) : Drama
+Gorgeous (Boh lee chun) (1999) : Action|Comedy|Romance
+Zelary (2003) : Drama|Romance
+Three Musketeers, The (1973) : Action|Adventure|Comedy
+Royal Flash (1975) : Adventure|Comedy|Romance
+Gunner Palace (2004) : Documentary|War
+Julia (1977) : Drama
+Sword of Doom, The (Dai-bosatsu tôge) (1966) : Action|Drama
+We're No Angels (1955) : Comedy|Crime|Drama
+Touch of Zen, A (Xia nu) (1971) : Action|Adventure
+Wild Parrots of Telegraph Hill, The (2003) : Documentary
+Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962) : Drama|War
+Mutant Aliens (2001) : Animation|Comedy|Sci-Fi
+Palindromes (2004) : Adventure|Comedy|Drama
+Between Your Legs (Entre las piernas) (1999) : Drama|Mystery|Romance|Thriller
+Common Thread, A (a.k.a. Sequins) (Brodeuses) (2004) : Drama|Romance
+Divorce - Italian Style (Divorzio all'italiana) (1961) : Comedy
+Saving Face (2004) : Comedy|Drama|Romance
+Eddie Izzard: Dress to Kill (1999) : Comedy
+Perfect Crime, The (Crimen Ferpecto) (Ferpect Crime) (2004) : Comedy|Crime|Thriller
+Calcium Kid, The (2004) : Comedy
+Georgy Girl (1966) : Comedy
+Teahouse of the August Moon, The (1956) : Comedy
+Darwin's Nightmare (2004) : Documentary
+Dead Man's Shoes (2004) : Crime|Thriller
+Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990) : Comedy|Drama
+Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L') (1970) : Crime|Horror|Mystery|Thriller
+Paradise Now (2005) : Crime|Drama|Thriller|War
+Samurai Rebellion (Jôi-uchi: Hairyô tsuma shimatsu) (1967) : Action|Drama
+New World, The (2005) : Adventure|Drama|Romance
+7 Faces of Dr. Lao (1964) : Fantasy|Mystery|Western
+Glory Road (2006) : Drama
+Project A ('A' gai waak) (1983) : Action|Comedy
+Something New (2006) : Comedy|Drama|Romance
+Imagine Me & You (2005) : Comedy|Drama|Romance
+Winter Passing (2005) : Drama
+Devil and Daniel Johnston, The (2005) : Documentary
+Go for Zucker! (Alles auf Zucker!) (2004) : Comedy
+Reefer Madness: The Movie Musical (2005) : Comedy|Drama|Musical
+Candy (2006) : Drama|Romance
+9/11 (2002) : Documentary
+Peaceful Warrior (2006) : Drama
+I Am a Sex Addict (2005) : Comedy|Documentary|Romance
+Metal: A Headbanger's Journey (2005) : Documentary
+Wordplay (2006) : Documentary
+Army of Shadows (L'armée des ombres) (1969) : Action|Drama|Thriller|War
+Mind Game (2004) : Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi
+Adam's Apples (Adams æbler) (2005) : Comedy|Drama
+Born to Kill (1947) : Crime|Drama|Film-Noir
+Illusionist, The (2006) : Drama|Fantasy|Mystery|Romance
+Chump at Oxford, A (1940) : Comedy
+Bridge, The (2006) : Documentary
+Chapayev (1934) : Drama|War
+Deliver Us from Evil (2006) : Documentary
+Last King of Scotland, The (2006) : Drama|Thriller
+U.S. vs. John Lennon, The (2006) : Documentary
+Catch a Fire (2006) : Drama|Thriller
+Painted Veil, The (2006) : Drama|Romance
+Beer League (2006) : Comedy
+Dead Meat (2004) : Horror
+Boss of It All, The (Direktøren for det hele) (2006) : Comedy|Drama
+Ugly Duckling and Me!, The (2006) : Animation|Comedy
+My Father and My Son (Babam ve oglum) (2005) : Drama
+Golden Door (Nuovomondo) (2006) : Adventure|Drama|Romance
+Citizen X (1995) : Crime|Drama|Thriller
+Babylon 5: The Gathering (1993) : Sci-Fi
+Meshes of the Afternoon (1943) : Fantasy
+Priceless (Hors de prix) (2006) : Comedy|Romance
+Reign Over Me (2007) : Drama
+Hoax, The (2007) : Crime|Drama
+21 Up (1977) : Documentary
+Bug (2007) : Drama|Horror|Thriller
+Sun Alley (Sonnenallee) (1999) : Comedy|Romance
+Surf's Up (2007) : Animation|Children|Comedy
+TV Set, The (2006) : Comedy|Drama
+Valet, The (La doublure) (2006) : Comedy
+Manufactured Landscapes (2006) : Documentary
+China Blue (2005) : Documentary
+No End in Sight (2007) : Documentary
+Shanghai Kiss (2007) : Comedy|Drama|Romance
+Unreasonable Man, An (2006) : Documentary
+Tekkonkinkreet (Tekkon kinkurîto) (2006) : Action|Adventure|Animation|Crime|Fantasy
+Sleuth (2007) : Drama|Mystery|Thriller
+Assassination of Jesse James by the Coward Robert Ford, The (2007) : Crime|Drama|Western
+10th & Wolf (2006) : Crime|Drama|Thriller
+Control (2007) : Drama
+Elite Squad (Tropa de Elite) (2007) : Action|Crime|Drama|Thriller
+Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007) : Drama
+Man from Earth, The (2007) : Drama|Sci-Fi
+Lions For Lambs (2007) : Drama|Thriller|War
+I'm Not There (2007) : Drama
+Drained (O cheiro do Ralo) (2006) : Comedy
+Cat Soup (Nekojiru-so) (2001) : Adventure|Animation|Drama|Horror
+Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006) : Animation|Comedy|Drama|Romance|Sci-Fi
+Rise of the Footsoldier (2007) : Action|Crime|Drama
+Taxi to the Dark Side (2007) : Documentary
+College Road Trip (2008) : Comedy
+Zeitgeist: The Movie (2007) : Documentary|War
+Heima (2007) : Documentary
+Class, The (Klass) (2007) : Drama
+Son of Rambow (2007) : Children|Comedy|Drama
+Super High Me (2007) : Comedy|Documentary
+Nina's Heavenly Delights (2006) : Comedy
+Spiral (2007) : Drama|Horror|Thriller
+Kit Kittredge: An American Girl (2008) : Children|Comedy|Drama|Mystery
+Battle for Haditha (2007) : War
+Frozen River (2008) : Drama
+Mutant Chronicles (2008) : Action|Adventure|Sci-Fi
+Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto) (1954) : Drama
+FLCL (2000) : Animation|Comedy|Fantasy|Sci-Fi
+My Best Friend's Girl (2008) : Comedy|Romance
+Crows Zero (Kurôzu zero) (2007) : Action
+Hunger (2008) : Drama
+Pervert's Guide to Cinema, The (2006) : Documentary
+Timecrimes (Cronocrímenes, Los) (2007) : Sci-Fi|Thriller
+Inkheart (2008) : Adventure|Fantasy
+Divo, Il (2008) : Drama
+Strictly Sexual (2008) : Comedy|Drama|Romance
+Anvil! The Story of Anvil (2008) : Documentary|Musical
+Man on the Flying Trapeze (1935) : Comedy
+Scorpio (1973) : Action|Drama|Thriller
+Sweeney Todd (2006) : Crime|Drama|Horror|Thriller
+Boy Eats Girl (2005) : Comedy|Horror
+Imagine That (2009) : Comedy|Drama|Fantasy
+Stoning of Soraya M., The (2008) : Crime|Drama
+Raiders of the Lost Ark: The Adaptation (1989) : Action|Adventure|Thriller
+Home (2009) : Documentary
+Roots (1977) : Drama|War
+Eichmann (2007) : Drama|War
+9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn) (2008) : Documentary
+Max Manus (2008) : Action|Drama|War
+I Can't Think Straight (2007) : Drama|Romance
+Troll 2 (1990) : Fantasy|Horror
+White Ribbon, The (Das weiße Band) (2009) : Drama|Mystery
+Thirst (Bakjwi) (2009) : Drama|Horror
+Blood of the Beasts (Sang des bêtes, Le) (1949) : Documentary|Drama
+Cove, The (2009) : Documentary
+Private Lives of Pippa Lee, The (2009) : Drama
+Messenger, The (2009) : Drama|Romance|War
+Ninja Assassin (2009) : Action|Crime|Drama|Thriller
+Mickey's Once Upon a Christmas (1999) : Animation|Comedy|Fantasy
+Crazy Heart (2009) : Drama|Romance
+Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) : Drama
+Prophet, A (Un Prophète) (2009) : Crime|Drama
+Meantime (1984) : Comedy|Drama
+Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992) : Documentary|Drama
+Captain Newman, M.D. (1963) : Comedy|Drama|War
+Persuasion (2007) : Drama|Romance
+Yes Men Fix the World, The (2009) : Documentary
+Gentlemen of Fortune (Dzhentlmeny udachi) (1972) : Comedy|Crime|Drama|Mystery
+Town Called Panic, A (Panique au village) (2009) : Animation
+Slammin' Salmon, The (2009) : Comedy
+Bone Man, The (Der Knochenmann) (2009) : Crime|Thriller
+Micmacs (Micmacs à tire-larigot) (2009) : Comedy|Crime
+Emperor's New Groove 2: Kronk's New Groove, The (2005) : Animation|Children|Comedy|Romance
+Three Men and a Cradle (3 hommes et un couffin) (1985) : Comedy
+Four Lions (2010) : Comedy|Drama
+12 Angry Men (1997) : Crime|Drama
+Lovers & Leavers (Kuutamolla) (2002) : Drama|Romance
+Scalphunters, The (1968) : Comedy|Western
+Enter the Void (2009) : Drama
+Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004) : Documentary
+Get Low (2009) : Comedy|Drama|Mystery
+Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989) : Action|Adventure|Animation|Fantasy|Sci-Fi
+Sisters (Syostry) (2001) : Action|Crime|Drama
+Jackass 2.5 (2007) : Comedy|Documentary
+Man Vanishes, A (Ningen Johatsu) (1967) : Documentary|Drama|Mystery
+Let Me In (2010) : Drama|Horror|Mystery
+Stone (2010) : Drama|Thriller
+Waiting for 'Superman' (2010) : Documentary
+Saw VII 3D - The Final Chapter (2010) : Horror|Mystery|Thriller
+Hatchet II (2010) : Comedy|Horror|Thriller
+Faster (2010) : Action|Crime|Drama
+One Week (1920) : Comedy
+Sweetgrass (2009) : Adventure|Documentary|Western
+Marwencol (2010) : Documentary
+Down Argentine Way (1940) : Comedy|Drama|Romance
+Even the Rain (También la lluvia) (2010) : Drama
+Zeitgeist: Moving Forward (2011) : Documentary
+All-Star Superman (2011) : Action|Adventure|Animation|Sci-Fi
+Girls About Town (1931) : Comedy
+Burke and Hare (2010) : Comedy|Thriller
+Summer Wars (Samâ wôzu) (2009) : Adventure|Animation|Comedy|Sci-Fi
+Scooby-Doo! Curse of the Lake Monster (2010) : Adventure|Children|Comedy|Mystery
+Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro) (2010) : Action|Crime|Drama
+BURN-E (2008) : Adventure|Animation|Children|Sci-Fi
+Senna (2010) : Documentary
+Boy (2010) : Comedy|Drama
+Connections (1978) : Documentary
+Into Eternity (2010) : Documentary
+American: The Bill Hicks Story (2009) : Comedy|Documentary
+Louis C.K.: Hilarious (2010) : Comedy
+Louis C.K.: Chewed Up (2008) : Comedy
+Louis C.K.: Shameless (2007) : Comedy
+Idiots and Angels (2008) : Animation|Drama|Fantasy
+Incendies (2010) : Drama|Mystery|War
+The Man from Nowhere (2010) : Action|Crime|Thriller
+Too Big to Fail (2011) : Drama
+My Life as McDull (Mak dau goo si) (2001) : Animation|Comedy|Drama
+Delhi Belly (2011) : Comedy|Crime
+Winnie the Pooh (2011) : Animation|Children|Comedy
+Paper Birds (Pájaros de papel) (2010) : Comedy|Drama
+My Afternoons with Margueritte (La tête en friche) (2010) : Comedy
+Stake Land (2010) : Horror
+Bill Cunningham New York (2011) : Documentary
+Separation, A (Jodaeiye Nader az Simin) (2011) : Drama
+The Artist (2011) : Comedy|Drama|Romance
+Three Outlaw Samurai (Sanbiki no samurai) (1964) : Action|Drama
+Shame (2011) : Drama
+Into the Abyss (2011) : Documentary
+Asterix and the Vikings (Astérix et les Vikings) (2006) : Adventure|Animation|Children|Comedy|Fantasy
+Happy Feet Two (2011) : Animation|Children|Comedy|IMAX
+Girl Walks Into a Bar (2011) : Comedy|Drama|Fantasy
+Revenant, The (2009) : Comedy|Horror
+All Watched Over by Machines of Loving Grace (2011) : Documentary
+Monsieur Lazhar (2011) : Children|Comedy|Drama
+Very Potter Musical, A (2009) : Comedy|Musical
+Very Potter Sequel, A (2010) : Comedy|Musical
+Miss Nobody (2010) : Comedy|Crime
+Dr. Seuss' The Lorax (2012) : Animation|Fantasy|Musical|IMAX
+Trailer Park Boys (1999) : Comedy|Crime
+God Bless America (2011) : Comedy|Drama
+North & South (2004) : Drama|Romance
+Best Exotic Marigold Hotel, The (2011) : Comedy|Drama
+Lucky One, The (2012) : Drama
+Rocket Singh: Salesman of the Year (2009) : Comedy|Drama
+Sound of My Voice (2011) : Drama|Mystery|Sci-Fi
+Superman/Batman: Public Enemies (2009) : Action|Animation|Fantasy
+Front of the Class (2008) : Drama
+Presto (2008) : Animation|Children|Comedy|Fantasy
+One Man Band (2005) : Animation|Comedy|Musical
+Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô) (1991) : Action|Adventure|Animation
+Dragon Ball Z: Broly - The Legendary Super Saiyan (Doragon bôru Z 8: Moetsukiro!! Nessen retsusen-chô gekisen) (1993) : Action|Adventure|Animation
+Spirit Camp (2009) : Horror
+Some Guy Who Kills People (2011) : Comedy|Thriller
+Killer Joe (2011) : Crime|Thriller
+Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994) : Action|Adventure|Animation
+Goodbye Charlie (1964) : Comedy|Fantasy|Romance
+Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993) : Action|Adventure|Animation
+Odd Life of Timothy Green, The (2012) : Comedy|Drama|Fantasy
+Searching for Sugar Man (2012) : Documentary
+Prime Suspect 6: The Last Witness (2003) : Drama|Thriller
+Words, The (2012) : Drama|Romance
+Samsara (2011) : Documentary
+Runaway Brain (1995)  : Animation|Comedy|Sci-Fi
+Master, The (2012) : Drama
+End of Watch (2012) : Crime|Drama|Thriller
+Holy Motors (2012) : Drama|Fantasy|Musical|Mystery|Sci-Fi
+Marley (2012) : Documentary
+Cloud Atlas (2012) : Drama|Sci-Fi|IMAX
+'Hellboy': The Seeds of Creation (2004) : Action|Adventure|Comedy|Documentary|Fantasy
+Sessions, The (Surrogate, The) (2012) : Drama
+Batman: The Dark Knight Returns, Part 1 (2012) : Action|Animation|Sci-Fi
+Lincoln (2012) : Drama|War
+Fantastic Fear of Everything, A (2012) : Comedy
+Paperman (2012) : Animation|Comedy|Romance
+Impossible, The (Imposible, Lo) (2012) : Drama|Thriller
+English Vinglish (2012) : Comedy|Drama
+It's Such a Beautiful Day (2012) : Animation|Comedy|Drama|Fantasy|Sci-Fi
+Human Planet (2011) : Documentary
+Movie 43 (2013) : Comedy
+Sightseers (2012) : Comedy
+Jim Jefferies: Fully Functional (EPIX) (2012) : Comedy
+Frozen Planet (2011) : Documentary
+Act of Killing, The (2012) : Documentary
+Escape from Planet Earth (2013) : Adventure|Animation|Comedy|Sci-Fi
+Oh Boy (A Coffee in Berlin) (2012) : Comedy|Drama
+Journey to the West: Conquering the Demons (Daai wa sai you chi Chui mo chun kei) (2013) : Adventure|Comedy|Fantasy|Romance|IMAX
+Maniac Cop 2 (1990) : Action|Horror|Thriller
+Justice League: Doom (2012)  : Action|Animation|Fantasy
+Bill Hicks: Revelations (1993) : Comedy
+Tie Xi Qu: West of the Tracks (Tiexi qu) (2003) : Documentary
+Inhuman Resources (Redd Inc.) (2012) : Horror|Thriller
+Kings of Summer, The (2013) : Comedy
+20 Feet from Stardom (Twenty Feet from Stardom) (2013) : Documentary
+Best Offer, The (Migliore offerta, La) (2013) : Thriller
+Craig Ferguson: I'm Here To Help (2013) : Comedy|Documentary
+Stuck in Love (2012) : Comedy|Drama|Romance
+Fruitvale Station (2013) : Drama
+Louis C.K.: Oh My God (2013) : Comedy
+In a World... (2013) : Comedy
+History of Future Folk, The (2012) : Adventure|Comedy|Musical|Sci-Fi
+Century of the Self, The (2002) : Documentary
+UnHung Hero (2013) : Documentary
+Red Flag (2012) : Comedy|Drama|Romance
+Kidnapping, Caucasian Style (Kavkazskaya plennitsa) (1967) : Comedy|Romance
+Ninja: Shadow of a Tear (2013) : Action|Crime|Thriller
+Only Lovers Left Alive (2013) : Drama|Horror|Romance
+Cats (1998) : Musical
+Hunting Elephants (2013) : Comedy|Crime
+Dragon ball Z 04: Lord Slug (1991) : Animation|Children
+Chinese Puzzle (Casse-tête chinois) (2013) : Comedy|Romance
+Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996) : Action|Adventure|Animation|Children
+Ernest & Célestine (Ernest et Célestine) (2012) : Adventure|Animation|Children|Comedy|Drama|Romance
+Wonder Woman (2009) : Action|Adventure|Animation|Fantasy
+Venus in Fur (La Vénus à la fourrure) (2013) : Drama
+Wrinkles (Arrugas) (2011) : Animation|Drama
+Garden of Words, The (Koto no ha no niwa) (2013) : Animation|Romance
+Particle Fever (2013) : Documentary
+Nut Job, The (2014) : Adventure|Animation|Children|Comedy
+Me and you (io e te) (2012) : Drama
+Free to Play (2014) : Documentary
+Hatchet III (2013) : Comedy|Horror
+Alpha and Omega 3: The Great Wolf Games (2014) : Action|Adventure|Animation|Children|Comedy
+Blended (2014) : Comedy
+Dance of Reality, The (Danza de la realidad, La) (2013) : Drama|Fantasy
+Internet's Own Boy: The Story of Aaron Swartz, The (2014) : Documentary
+Frank (2014) : Comedy|Drama|Mystery
+Honey (Miele) (2013) : Drama
+Colourful (Karafuru) (2010) : Animation|Drama|Fantasy|Mystery
+Whiplash (2014) : Drama
+I Origins (2014) : Drama|Sci-Fi
+Signal, The (2014) : Sci-Fi|Thriller
+The Hundred-Foot Journey (2014) : Comedy|Drama
+La cravate (1957) : (no genres listed)
+Angel's Egg (Tenshi no tamago) (1985) : Animation|Drama|Fantasy
+What We Do in the Shadows (2014) : Comedy|Horror
+The Book of Life (2014) : Adventure|Animation|Romance
+Copenhagen (2014) : Adventure|Drama|Romance
+New Kids Nitro (2011) : Action|Comedy
+Dead Snow 2: Red vs. Dead (2014)  : Action|Comedy|Horror
+La Belle Verte (1996) : Comedy
+Fans (1999) : Comedy
+Bill Burr: I'm Sorry You Feel That Way (2014) : Comedy
+Bill Burr: You People Are All the Same (2012) : Comedy
+Into the Forest of Fireflies' Light (2011) : Animation|Drama|Fantasy
+PK (2014) : Comedy|Drama|Fantasy|Mystery|Romance
+The Salt of the Earth (2014) : Documentary
+Untitled Spider-Man Reboot (2017) : Action|Adventure|Fantasy
+Snowflake, the White Gorilla (2011) : Adventure|Animation|Children|Comedy
+A Flintstones Christmas Carol (1994) : Animation|Children|Comedy
+The Cave of the Golden Rose (1991) : Adventure|Children|Fantasy
+The Pacific (2010) : Action|Adventure|Drama|War
+Daddy, I'm A Zombie (2012) : Animation|Comedy|Fantasy
+The Fox and the Hound 2 (2006) : Adventure|Animation|Children|Comedy
+Operation 'Y' & Other Shurik's Adventures (1965) : Comedy|Crime|Romance
+Louis C.K.: Live at The Comedy Store (2015) : Comedy
+Brooklyn (2015) : Drama|Romance
+The End of the Tour (2015) : Drama
+Experimenter (2015) : Drama
+Family Guy Presents: Blue Harvest (2007) : Animation|Comedy
+Boy Meets Girl (2015) : Comedy|Drama|Romance
+I'm Here (2010) : Drama
+The Forgotten Space (2010) : Documentary
+Tom Segura: Completely Normal (2014) : Comedy
+Reality (2014) : Comedy
+The Amazing Screw-On Head (2006) : Action|Adventure|Animation|Comedy|Sci-Fi
+George Carlin: Life Is Worth Losing (2005) : Comedy
+Love and Pigeons (1985) : Comedy|Romance
+The Brain (1969) : Comedy|Crime
+Tom and Jerry: A Nutcracker Tale (2007) : Animation|Comedy
+Willy/Milly (1986) : Comedy|Fantasy
+Woman in Gold (2015) : Drama
+Buzzard (2015) : Comedy|Drama|Horror
+Danny Collins (2015) : Comedy|Drama
+Man Up (2015) : Comedy|Romance
+Carry On Don't Lose Your Head (1966) : Comedy
+What Love Is (2007) : Comedy|Romance
+My Love (2006) : Animation|Drama
+Radio Day (2008) : Comedy
+Elections Day (2007) : Comedy
+That Munchhausen (1979) : Comedy|Drama|Fantasy
+The Taming of the Scoundrel (1980) : Comedy
+Bitter Lake (2015) : Documentary
+Ghost Graduation (2012) : Comedy
+The Hairdresser (2010) : Comedy|Drama
+Golmaal (2006) : Children|Comedy
+Bruce Lee: A Warrior's Journey (2000) : Documentary
+The Magnificent Ruffians (1979) : Action|Drama
+Scooby-Doo! and the Samurai Sword (2009) : Animation|Children|Comedy
+Scooby-Doo! and the Loch Ness Monster (2004) : Animation|Children|Comedy
+Big Top Scooby-Doo! (2012) : Animation|Children|Comedy
+Scooby-Doo Goes Hollywood (1979) : Animation|Children|Comedy
+George Carlin: Back in Town (1996) : Comedy
+George Carlin: You Are All Diseased (1999) : Comedy
+Tom and Jerry: Shiver Me Whiskers (2006) : Animation|Children|Comedy
+Kung Fu Panda: Secrets of the Masters (2011) : Animation|Children
+Magic Mike XXL (2015) : Comedy|Drama
+Return to Treasure Island (1988) : Adventure|Animation|Comedy
+Nasu: Summer in Andalusia (2003) : Animation
+Fracchia contro Dracula (1985) : Comedy|Horror
+Madly in Love (1981) : Comedy
+Hollywood Chainsaw Hookers (1988) : Comedy|Horror
+Love (2015) : Drama|Romance
+Family Guy Presents: Something, Something, Something, Dark Side (2009) : Animation|Comedy|Sci-Fi
+The Electric Hotel (1908) : Animation|Comedy|Sci-Fi
+Battle For Sevastopol (2015) : Drama|Romance|War
+Straight Outta Compton (2015) : Drama
+Tangerine (2015) : Comedy|Drama
+Scouts Guide to the Zombie Apocalypse (2015) : Action|Comedy|Horror
+Deathgasm (2015) : Comedy|Horror
+12 Chairs (1976) : Adventure|Comedy
+It Can't Be! (1975) : Comedy
+Bloodsucking Bastards (2015) : Comedy|Horror
+Oscar (1967) : Comedy
+The Blue Planet (2001) : Documentary
+Cornered! (2009) : Comedy|Horror
+The Night Before (2015) : Comedy
+The Editor (2015) : Comedy|Horror|Mystery
+Jump In! (2007) : Comedy|Drama|Romance
+Silence (2016) : Drama|Thriller
+L.A. Slasher (2015) : Comedy|Crime|Fantasy
+How To Change The World (2015) : Documentary
+Sex, Drugs & Taxation (2013) : Comedy|Drama
+Formula of Love (1984) : Comedy
+Dragons: Gift of the Night Fury (2011) : Adventure|Animation|Comedy
+Cosmic Scrat-tastrophe (2015) : Animation|Children|Comedy
+The Girls (1961) : Comedy|Romance
+The Adventures of Sherlock Holmes and Doctor Watson : (no genres listed)
+Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986) : Crime|Mystery
+The Adventures of Sherlock Holmes and Dr. Watson: Bloody Signature (1979) : Crime
+Sherlock Holmes and Dr. Watson: Acquaintance (1979) : Crime
+Doctor Who: The Doctor, the Widow and the Wardrobe (2011) : Adventure|Drama
+Doctor Who: A Christmas Carol (2010) : Sci-Fi
+Doctor Who: Voyage Of The Damned (2007) : Action|Sci-Fi
+A Perfect Day (2015) : Comedy|Drama
+Devil Dog: The Hound of Hell (1978) : Horror
+He Never Died (2015) : Comedy|Drama|Horror
+Parasyte: Part 1 (2014) : Horror|Sci-Fi
+Parasyte: Part 2 (2015) : Horror|Sci-Fi
+Lumberjack Man (2015) : Comedy|Horror
+The Love Bug (1997) : Adventure|Children|Comedy|Fantasy
+Tomorrow (2015) : Documentary
+Death Note Rewrite: Genshisuru Kami (2007) : Mystery
+Three from Prostokvashino (1978) : Animation
+Dad's Army (1971) : Comedy
+Ip Man 3 (2015) : Action
+Who Killed Chea Vichea? (2010) : Documentary
+Hunt for the Wilderpeople (2016) : Adventure|Comedy
+Rabbits (2002) : Comedy|Drama|Fantasy
+The Barkley Marathons: The Race That Eats Its Young (2015) : Documentary
+Neon Bull (2015) : Adventure
+Ice Age: The Great Egg-Scapade (2016) : Adventure|Animation|Children|Comedy
+Everybody Wants Some (2016) : Comedy
+Texas - Doc Snyder hält die Welt in Atem (1993) : Comedy|Western
+00 Schneider - Jagd auf Nihil Baxter (1994) : Comedy|Crime
+Snowden (2016) : Drama|Thriller
+Tenchi Muyô! In Love (1996) : Animation|Comedy
+Captain Fantastic (2016) : Drama
+Comedy of the Strict Regime (1993) : Comedy
+Ali Wong: Baby Cobra (2016) : (no genres listed)
+A Midsummer Night's Dream (2016) : (no genres listed)
+O.J.: Made in America (2016) : Documentary
+The Purge: Election Year (2016) : Action|Horror|Sci-Fi
+Indignation (2016) : Drama
+Piper (2016) : Animation
+The Red Turtle (2016) : Animation
+Jim Jefferies: Freedumb (2016) : Comedy
+Tom Segura: Mostly Stories (2016) : Comedy
+Kizumonogatari Part 1: Tekketsu (2016) : Action|Animation|Mystery
+Winnie Pooh (1969) : Animation|Children
+Winnie the Pooh Goes Visiting (1971) : Animation
+Winnie the Pooh and the Day of Concern (1972) : Animation
+Comedy Central Roast of David Hasselhoff (2010) : Comedy
+Endless Poetry (2016) : Drama|Fantasy
+13th (2016) : Documentary
+Lion (2016) : Drama
+While You Were Fighting: A Thor Mockumentary (2016) : Comedy|Fantasy|Sci-Fi
+Ice Guardians (2016) : Documentary
+Risk (2016) : Documentary
+Alesha Popovich and Tugarin the Dragon (2004) : Animation|Comedy|Drama
+Whiplash (2013) : (no genres listed)
+Junior and Karlson (1968) : Adventure|Animation|Children
+A Silent Voice (2016) : Animation|Drama|Romance
+I Am Not Your Negro (2017) : Documentary
+The OA : (no genres listed)
+Fist Fight (2017) : Comedy
+Dana Carvey: Straight White Male, 60 (2016) : Comedy
+Kizumonogatari II: Passionate Blood (2016) : Animation|Fantasy|Mystery
+Kizumonogatari III: Cold Blood (2017) : Animation|Fantasy|Mystery
+John Wick: Chapter Two (2017) : Action|Crime|Thriller
+Mulholland Dr. (1999) : Drama|Mystery|Romance
+Dave Chappelle: The Age of Spin (2017) : Comedy
+CHiPS (2017) : Action|Comedy|Drama
+A Plasticine Crow (1981) : Animation
+Band of Brothers (2001) : Action|Drama|War
+Betting on Zero (2016) : Documentary
+Mini's First Time (2006) : Comedy|Crime|Drama
+The Hero (2017) : Drama
+Cosmos : (no genres listed)
+Death Note: Desu nôto (2006–2007) : (no genres listed)
+Last Year's Snow Was Falling (1983) : Animation|Children|Comedy|Fantasy
+Investigation Held by Kolobki (1986) : Animation
+Karlson Returns (1970) : Adventure|Animation|Children
+Vacations in Prostokvashino (1980) : Animation
+Winter in Prostokvashino (1984) : Animation
+The Godfather Trilogy: 1972-1990 (1992) : (no genres listed)
+Priklyucheniya Kapitana Vrungelya (1979) : Action|Adventure|Animation|Comedy
+Tickling Giants (2017) : Documentary
+Vovka in the Kingdom of Far Far Away (1965) : Adventure|Animation|Children|Fantasy
+Adventures of Mowgli: The Kidnapping (1968) : Adventure|Animation|Children
+A Detective Story (2003) : Animation|Sci-Fi
+The Square (2017) : Drama
+Tokyo Idols (2017) : Documentary
+Wow! A Talking Fish! (1983) : Animation|Children|Comedy|Fantasy
+Travels of an Ant (1983) : Animation
+The Adventures of Sherlock Holmes and Doctor Watson: The Hunt for the Tiger (1980) : (no genres listed)
+Fugitives (1986) : Comedy|Crime
+Seven Sisters (2017) : Sci-Fi|Thriller
+Empties (2007) : Comedy
+Gena the Crocodile (1969) : Animation|Children
+On the Trail of the Bremen Town Musicians (1973) : Adventure|Animation|Children
+In the blue sea, in the white foam. (1984) : Animation|Children|Fantasy
+Bobik Visiting Barbos (1977) : Animation|Comedy
+Shot Caller (2017) : Action|Crime|Drama|Thriller
+Ari Shaffir: Double Negative (2017) : Comedy
+Black Mirror : (no genres listed)
+American Made (2017) : Crime|Thriller
+Little Boxes (2017) : Comedy|Drama
+Three Billboards Outside Ebbing, Missouri (2017) : Crime|Drama
+Paddington 2 (2017) : Adventure|Animation|Children|Comedy
+2048: Nowhere to Run (2017) : Sci-Fi|Thriller
+Male Hunt (1964) : Comedy
+Loving Vincent (2017) : Animation|Crime|Drama
+Blue Planet II (2017) : Documentary
+Emerald Green (2016) : Adventure|Drama|Fantasy|Romance
+LBJ (2017) : Drama
+The Post (2017) : Drama|Thriller
+Pixel Perfect (2004) : Children|Comedy|Sci-Fi
+Quest (2017) : Documentary
+Patti Rocks (1988) : Comedy|Drama
+Tom Segura: Disgraceful (2018) : Comedy
+De platte jungle (1978) : Documentary
+The Cloverfield Paradox (2018) : Horror|Mystery|Sci-Fi|Thriller
+Elsa & Fred (2005) : Comedy|Drama|Romance
+Death Wish (2018) : Action|Crime|Drama|Thriller
+Sherlock - A Study in Pink (2010) : Crime
+Won't You Be My Neighbor? (2018) : Documentary
+Sorry to Bother You (2018) : Comedy|Fantasy|Sci-Fi
+The Man Who Killed Don Quixote (2018) : Adventure|Comedy|Fantasy
+Spiral (2018) : Documentary
+Gintama (2017) : Action|Adventure|Comedy|Sci-Fi
